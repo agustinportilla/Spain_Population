@@ -6,9 +6,9 @@
 
 **Project details**: Dashboards created to show the functionalities of Power BI to my students in my Data Analytics class.
   - Data extracted from a PDF published by Universidad de Sevilla. One of the purposes was to show the students how to extract information from a PDF.
-  - Data was intensively worked in Power Query (as the original format was friendly for Power BI).
+  - Data was intensively worked in Power Query (as the original format was not friendly in order to create visualizations Power BI).
   - Columns were later created using DAX language.
-  - Result: an interactive Dashboard that shows the most populated Provinces in Spain in the period 2008-2020. Changed in population growth (and decrease) rates can easily be spotted with the help of a time series visualization.
+  - Result: an interactive Dashboard that shows the most populated Provinces in Spain in the period 2008-2020. Changes in population growth (and decrease) rates can easily be spotted with the help of a time series visualization and a map..
   
 **Programming Languages**: M and Dax.
 
